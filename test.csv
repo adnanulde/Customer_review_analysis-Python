@@ -1,0 +1,55 @@
+review_text,rating,sentiment
+"I'm amazed that this product has any positive reviews given its serious flaws.",1,negative
+"The battery drains completely even when the device isn't being used.",1,negative
+"This product is nothing but disappointment and frustration from start to finish.",1,negative
+"Even at half the price, this would still be a complete ripoff.",2,negative
+"I've never seen such poor quality in a product at this price point.",1,negative
+"The company's customer service blamed me for their defective product.",1,negative
+"This product has a fundamental design flaw that renders it practically useless.",1,negative
+"Multiple safety issues make this product dangerous to use as intended.",2,negative
+"I would give this zero stars if possible. Complete waste of money.",1,negative
+"The product literally fell apart during gentle, normal use.",1,negative
+"This product became unusable after less than a week of light use.",1,negative
+"Numerous design flaws make this product frustrating to use daily.",2,negative
+"I received a clearly used item sold as new. Unacceptable business practice.",1,negative
+"The product arrived damaged and customer service refused to help.",1,negative
+"This has to be the worst designed product I've ever purchased.",1,negative
+"The materials used cause skin irritation which isn't mentioned anywhere.",2,negative
+"This product failed immediately after the return period expired.",1,negative
+"I've tried every troubleshooting step suggested with no improvement.",1,negative
+"The quality is so poor that I question how this company stays in business.",1,negative
+"This product was clearly rushed to market without proper testing.",2,negative
+"I'm returning this immediately. Complete waste of time and money.",1,negative
+"The performance is so poor that it's actually worse than having no product at all.",1,negative
+"The design is completely impractical for its intended purpose.",1,negative
+
+
+"The quality control is evident - everything works perfectly right out of the box.",5,positive
+"This product combines the best features of competitors while eliminating common pain points.",5,positive
+"I appreciate the ongoing support and updates that continue to improve functionality.",4,positive
+"This has improved my results dramatically. The difference in quality is immediately noticeable.",5,positive
+"The thoughtful design makes this accessible for users with varying physical abilities.",5,positive
+"This product offers incredible precision that has elevated the quality of my work.",5,positive
+"I'm impressed by how well this integrates into my existing workflow and systems.",4,positive
+"The robust construction inspires confidence that this will serve me well for years.",5,positive
+"This product maintains consistent performance even under challenging conditions.",5,positive
+"I appreciate the ethical manufacturing practices and sustainable materials used.",5,positive
+"This has simplified complex processes that used to require multiple tools or steps.",4,positive
+"The intuitive design makes what used to be complicated tasks simple and efficient.",5,positive
+"This product consistently exceeds expectations in performance and reliability.",5,positive
+"I'm particularly impressed with how efficiently this operates while conserving energy.",5,positive
+"The thoughtful safety features provide peace of mind during operation.",4,positive
+"This product delivers professional-quality results even for beginners.",5,positive
+"The adaptable design makes this suitable for a wide range of applications and environments.",5,positive
+"This has revolutionized my approach to this task. I can't believe I waited so long to purchase it.",5,positive
+"I appreciate the comprehensive documentation that helps maximize the product's potential.",4,positive
+"The exceptional build quality is apparent from the moment you unbox this product.",5,positive
+"This product maintains consistent performance regardless of environmental conditions.",5,positive
+"I'm impressed by how thoughtfully designed every aspect of the user experience is.",5,positive
+"The versatility of this product has allowed me to eliminate several other tools from my collection.",4,positive
+"This has improved my efficiency to the point where it's paid for itself many times over.",5,positive
+"The intuitive interface requires minimal learning time before achieving expert results.",5,positive
+"This product combines innovative technology with practical, user-focused design.",5,positive
+"I appreciate the attention to ergonomics that makes this comfortable for extended use.",4,positive
+"The consistent reliability makes this an essential tool I can always depend on.",5,positive
+"This product has transformed a daily chore into a quick, simple task.",5,positive
